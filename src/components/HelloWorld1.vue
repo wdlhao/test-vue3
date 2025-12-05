@@ -14,6 +14,7 @@ defineProps<{
     </h3>
     <span>person 1: hello a</span>
     <span>person 1: hello b</span>
+    <span>person 1: hello c</span>
   </div>
 </template>
 
